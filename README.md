@@ -3,7 +3,7 @@
 
 ## Úkol
 
-**Tato část úkolu je povinná. Odevzdávejte do následující hodiny PRG, tzn. do 25.1.2024**
+**Tato část úkolu je povinná. Odevzdávejte do následující hodiny PRG, tzn. do 26.1.2024**
 
 Vytvořte primitivnější verzi klasického hada, ve které se náhodně objevují červené mince, které může hrát sebrat a získá za ně body
 
