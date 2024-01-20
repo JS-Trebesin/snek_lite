@@ -10,6 +10,9 @@ Vytvořte primitivnější verzi klasického hada, ve které se náhodně objevu
 * za každou minci získá hráč bod, v pravém horním rohu se zobrazuje skóre
 * po sebrání červené mince se mince objeví na nové lokaci
 
+**Pokuste se nekopírovat bezhlavě kód z hodiny CTRL+C a CTRL+V. Kód z hodiny určitě využijte jako pomůcku, ale nový program k úkolu pište od začátku, řádek po řádku (i části, které budou do písmenka stejné) - velmi to pomáhá k pochopení a procvičení**
+
+
 *Mince a hráčova postavička samozřejmě mohou vypadat jakkoliv* 
 
   
